@@ -17,7 +17,7 @@ Although this package is usable, it still is under active development so please 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [How does it compare to DiscordGo?](#how-does-it-compare-to-discordgo-)
+- [How does it compare to DiscordGo?](#how-does-it-compare-to-discordgo)
 - [License](#license)
 
 # Installation
